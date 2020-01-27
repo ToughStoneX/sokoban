@@ -1,0 +1,16 @@
+﻿  sokoban.cpp
+sokoban.cpp(512): warning C4018: “<”: 有符号/无符号不匹配
+sokoban.cpp(514): warning C4018: “<”: 有符号/无符号不匹配
+sokoban.cpp(894): warning C4018: “<”: 有符号/无符号不匹配
+sokoban.cpp(896): warning C4018: “<”: 有符号/无符号不匹配
+sokoban.cpp(1020): warning C4018: “<”: 有符号/无符号不匹配
+sokoban.cpp(1022): warning C4018: “<”: 有符号/无符号不匹配
+sokoban.cpp(1088): warning C4018: “<”: 有符号/无符号不匹配
+sokoban.cpp(1090): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  5 of 46 functions (10.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Sokoban.vcxproj -> D:\C++\Projects\Sokoban\Sokoban\x64\Release\Sokoban.exe
+  Sokoban.vcxproj -> D:\C++\Projects\Sokoban\Sokoban\x64\Release\Sokoban.pdb (Full PDB)
